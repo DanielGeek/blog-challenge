@@ -24,5 +24,5 @@ This is a mini blogging platform created with React, TypeScript, Zustand, React 
    cd blog-challenge
 
 2. Run project and db server
-- npm start
 - npm run server
+- npm start
