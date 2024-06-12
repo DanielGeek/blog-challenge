@@ -23,6 +23,8 @@ This is a mini blogging platform created with React, TypeScript, Zustand, React 
    git clone https://github.com/DanielGeek/blog-challenge.git
    cd blog-challenge
 
-2. Run project and db server
+3. Create .env file and add the api url, you can check .env.example to see how look the structure
+
+3. Run project and db server
 - npm run server
 - npm start
